@@ -36,4 +36,4 @@ We compared the performance of unpretrained and pretrained models:
 2. Among the pretrained models, MobileNetV2 outperformed InceptionV3.
 
 ## Deployment
-We deployed the MobileNetV2 model by converting it into TensorFlow.js format (.json and .bin), enabling the Cloud Computing (CC) team to create an API for the Machine Learning (ML) team.
+We deployed the MobileNetV2 model by converting it into TensorFlow.js format (.json and .bin), enabling the Cloud Computing (CC) team to create an API for the Mobile Development (MD) team.
